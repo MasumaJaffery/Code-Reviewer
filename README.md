@@ -30,7 +30,7 @@ After you're finished please remove all the comments and instructions!
   <img src="Logo.png" alt="logo" width="140"  height="auto" />
   <br/>
 
-  <h3><b>Microverse README Template</b></h3>
+  <h3><b>Code Reviewer</b></h3>
 
 </div>
 
@@ -60,10 +60,10 @@ After you're finished please remove all the comments and instructions!
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [Code-Reviewer-Project] <a name="Code-Reviewer-Project"></a>
+# 📖 [Code-Reviewer] <a name="Code-Reviewer"></a>
 
 
-**[Code-Reviewer-Project]** is a a Project that made to improve coding reviewing skill at professional level!
+**[Code-Reviewer]** is a a Project that made to improve coding reviewing skill at professional level!
 
 ## 🛠 Built With <a name="built-with"></a>
 1.Html
@@ -71,7 +71,7 @@ After you're finished please remove all the comments and instructions!
 3.Gitbash and GitHub.
 
 ### Tech Stack <a name="tech-stack"></a>
-Fork and clone the repo to your computer using git clone https://github.com/MasumaJaffery/Code-Reviewer-Project.git 
+Fork and clone the repo to your computer using git clone https://github.com/MasumaJaffery/Code-Reviewer.git
 
 <details>
   <summary>Languages</summary>
@@ -102,7 +102,7 @@ No Demo Yet! You can run this Project on your Browser by following getting start
 ## 💻 Getting Started <a name="getting-started"></a>
 
 To get started locally follow these simple example steps.
-Fork and clone the repo to your computer using git clone https://github.com/MasumaJaffery/Code-Reviewer-Project.git  in the terminal or command prompt.
+Fork and clone the repo to your computer using git clone https://github.com/MasumaJaffery/Code-Reviewer.git in the terminal or command prompt.
 Make sure to git checkout desired-branch.
 Go to the destination folder and open index.html to see the project in your browser, or just run the Live Demo with the link above.
 
@@ -151,8 +151,6 @@ Example:
 <!-- AUTHORS -->
 
 ## 👥 Authors <a name="authors"></a>
-
-> Mention all of the collaborators of this project.
 
 👤 **Authors**
 
